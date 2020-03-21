@@ -1,0 +1,33 @@
+body {
+  font-family: Helvetica, sans-serif, arial;
+}
+
+.banner {
+  text-align: center;
+  font-size: 60px;
+  color: khaki;
+  background-image: url("./../images/pattern.jpeg");
+}
+
+section h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.green-background {
+  background-color: mediumspringgreen;
+}
+
+.coral-background {
+  background-color: lightcoral;
+}
+
+.blue-background {
+  background-color: skyblue;
+}
+
+span {
+  font-weight: bold;
+  color: blue;
+}
